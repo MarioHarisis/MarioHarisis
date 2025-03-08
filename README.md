@@ -8,6 +8,10 @@
 
 ###
 
+<h3 align="center">What I know best:</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -44,12 +48,13 @@
 
 ###
 
+<h3 align="center">Contact:</h3>
+
+###
+
 <br clear="both">
 
 <div align="left">
-  <a href="marioharisis27@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/mario-harisis-garrido-974550314/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
@@ -60,4 +65,3 @@
 <img align="right" height="150" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"  />
 
 ###
-
