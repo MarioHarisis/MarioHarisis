@@ -61,9 +61,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MarioHarisis/MarioHarisis/output/snake.svg" alt="Snake animation" />
-
-###
-
