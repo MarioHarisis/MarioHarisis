@@ -1,6 +1,7 @@
 <h2 align="left">Welcome! My name is Mario and I'm a web developer from Spain.
-I`m currently finishing my studies as a web developer, looking for new opportunities.
 </h2>
+<br clear="both">
+<h2 align="left"> I`m currently finishing my studies as a web developer, looking for new opportunities.</h2>
 
 ###
 
