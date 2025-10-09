@@ -1,4 +1,4 @@
-<h2 align="left">Welcome 👾!<br><br> My name is Mario and I'm currently finishing my studies as a web developer 💻<br><br>Looking for new opportunities!🔍</h2>
+<h2 align="left">Welcome 👾!<br><br> My name is Mario I'm a web developer 💻<br><br>Looking for new opportunities!🔍</h2>
 
 ###
 
