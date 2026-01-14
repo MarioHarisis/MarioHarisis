@@ -1,13 +1,5 @@
 <h2 align="left">Welcome to my world 🪐👾!<br><br> My name is Mario. I'm a backend developer 💻<br><br>Currently pursuing a Master's Degree in Blockchain Engineering and Development.🎓</h2>
 
-###
-
-<div align="center">
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
-</div>
-
-###
-
 <h3 align="left">Programming Languages:</h3>
 
 ###
